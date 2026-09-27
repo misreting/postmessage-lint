@@ -14,10 +14,10 @@
     "csp"
   ],
   "license": "MIT",
-  "author": "__AUTHOR__",
+  "author": "postmessage-lint",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/__GH_OWNER__/postmessage-lint.git"
+    "url": "git+https://github.com/agentscope-ai-java/postmessage-lint.git"
   },
   "type": "module",
   "engines": {
